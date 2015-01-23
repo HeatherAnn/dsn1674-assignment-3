@@ -37,7 +37,7 @@ h3 {
   font-family: arial,normal;
 }
 .quote{
-font size: 1.5rem;
+font size: 1.8rem;
 font style: italic;
 text-align: center;
 }
@@ -59,4 +59,27 @@ padding: 0;
 
 em {
   color: #79756f;
+}
+
+/*Venus*/
+dl{
+  font-family: arial;
+  list-style-type: none;
+}
+dt {
+  font-family: arial;
+  font-weight: bold;
+}
+/*Mars*/
+dl{
+  font-family: arial;
+  list-style-type: none;
+}
+dt {
+  font-family: arial;
+  font-weight: bold;
+}
+figcaption {
+  font-style: italic;
+  font-family: arial;
 }
