@@ -1,6 +1,5 @@
 html {
   background-color: #dbd6cf;
-  color: #79756f;
 }
 h1 {
   color: #79756f;
@@ -14,6 +13,7 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+
 a:hover {
   color: #fe3333;
 }
@@ -23,9 +23,40 @@ h2 {
   line-height: 1.5;
   font-family:'Bevan', cursive;
 }
+
 h3 {
   color: #79756f;
   font-weight: normal;
   line-height: 1.5;
   font-family:'Bevan', cursive;
+}
+
+/*Introduction */
+
+.firstparagraph{
+  font-family: arial,normal;
+}
+.quote{
+font size: 1.5rem;
+font style: italic;
+text-align: center;
+}
+
+/* Terrestial Planets */
+
+ol {
+list-style-type: lower-roman;
+font-family: arial;
+padding: 0;
+}
+
+.venus{
+  font-family: arial,normal;
+}
+.mars {
+  font-family: arial,normal;
+}
+
+em {
+  color: #79756f;
 }
