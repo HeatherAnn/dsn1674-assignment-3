@@ -2,3 +2,10 @@ html {
   background-color: #dbd6cf;
   color: #79756f;
 }
+h1 {
+  color: #79756f;
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 1.5;
+  font-family:'Bevan', cursive;
+}
