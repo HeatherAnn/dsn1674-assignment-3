@@ -37,17 +37,22 @@ h3 {
   font-family: arial,normal;
 }
 .quote{
-font size: 1.8rem;
-font style: italic;
+font-size: 1.5rem;
+font-style: italic;
 text-align: center;
+}
+.speaker {
+  font-style: italic;
+  text-align: right;
+  color: #79756f;
 }
 
 /* Terrestial Planets */
 
 ol {
-list-style-type: lower-roman;
 font-family: arial;
 padding: 0;
+list-style-type: lower-roman;
 }
 
 .venus{
