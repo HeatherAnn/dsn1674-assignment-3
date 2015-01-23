@@ -9,3 +9,23 @@ h1 {
   line-height: 1.5;
   font-family:'Bevan', cursive;
 }
+ul {
+  color: #713837;
+  list-style-type: none;
+  padding: 0;
+}
+a:hover {
+  color: #fe3333;
+}
+h2 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1.5;
+  font-family:'Bevan', cursive;
+}
+h3 {
+  color: #79756f;
+  font-weight: normal;
+  line-height: 1.5;
+  font-family:'Bevan', cursive;
+}
