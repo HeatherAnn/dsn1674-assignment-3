@@ -1,18 +1,48 @@
 html {
   background-color: #dbd6cf;
 }
+body{
+  margin: 0;
+  padding: 0.5em;
+}
+
+header{
+  background-color: #79756f;
+  padding: 1em;
+  margin: 0;
+}
 h1 {
-  color: #79756f;
+  color: white;
   font-weight: normal;
-  font-size: 2rem;
+  font-size: 3rem;
   line-height: 1.5;
   font-family:'Bevan', cursive;
+  /* start at top and go clockwise: top, right, bottom, left */
+   /* top/bottom left/rigt */
+  text-align: center;
+  }
 }
 ul {
   color: #713837;
   list-style-type: none;
   padding: 0;
   font-family: arial;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0.5em;
+  margin: 0;
+  text-align: center;
+}
+nav li {
+  display: inline;
+}
+nav a {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  background-color: #703838;
+  color: white;
+  text-decoration: none;
 }
 
 a:hover {
